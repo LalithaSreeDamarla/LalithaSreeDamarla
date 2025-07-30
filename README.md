@@ -1,5 +1,9 @@
 # 👋 Hi, I'm Lalitha Sree Damarla!
 
+![Profile Views](https://komarev.com/ghpvc/?username=LalithaSreeDamarla&style=flat-square&color=blue)
+![Followers](https://img.shields.io/github/followers/LalithaSreeDamarla?style=social)
+![GitHub Stars](https://img.shields.io/github/stars/LalithaSreeDamarla?style=social)
+
 🎓 Master's in Computer Science (AI) @ DePaul University  
 💻 Software Developer | Cloud & Intelligent Automation Engineer | AI Enthusiast  
 💡 Passionate about learning, solving real-world problems, and building smart systems with AI  
@@ -13,68 +17,83 @@
 - 🧠 **AI + Problem Solving**  
 - 💻 **Software Development (Java, C#, .NET)**  
 - 🔄 **Automation & Cloud Pipelines**  
-- 📩 **Multilingual Email Automation (AWS Translate + SES)**  
-- 🌐 **Full-Stack & API Development**
+- 📩 **Multilingual Email Automation (AWS SES + Translate)**  
+- 🌐 **Full-Stack & API Development (Node.js + React)**
 
----
-
-### 💻 Programming Languages  
+### 🧰 Programming Languages  
 Java • C# • .NET • Python • JavaScript • Node.js • SQL • C++
 
-### 🧰 Tools & Frameworks  
-Spring AOP • ASP.NET MVC • ReactJS • Node.js • Django  
+### 🚀 Frameworks & Tools  
+ASP.NET • ReactJS • Node.js • Django  
 AWS (Lambda, Glue, SES, SNS, Translate, Kendra, Bedrock)  
-Azure DevOps • PowerShell • REST APIs • MongoDB • SQL Server
+Azure DevOps • PowerShell • GitHub • MongoDB • SQL Server • REST APIs
+
+### 🧪 Tech Badges  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ---
 
 ## 🧠 What Drives Me
 
 > "Software development is more than code — it's solving human problems with elegant logic."  
-> "AI gives me superpowers to make systems learn, adapt, and think smart."
+> "AI isn’t just futuristic — it's how we solve real-world problems today, faster and smarter."
 
-I'm passionate about turning complex business challenges into **intelligent software** using AI, cloud tools, and clean development practices.
+I thrive on building systems that are smart, scalable, and impactful — combining AI and automation to bring ideas to life.
 
 ---
 
-## 📦 Recent Projects
+## 📦 Featured Projects
 
 ### 📊 Student Behavioral Pattern Clustering  
-Led a team applying ensemble clustering for early student behavior prediction.  
+Led a 4-member team to identify student patterns with ensemble clustering and ML.  
 🛠️ Python, Pandas, Scikit-learn  
 🔗 [GitHub](https://github.com/LalithaSreeDamarla)
 
 ### ⏱️ Time-Series Affinity Clustering  
-Created a scalable time-series pipeline for real-time anomaly detection.  
+Developed a real-time time-series pipeline for anomaly detection.  
 🛠️ Python, NumPy, Matplotlib  
 🔗 [GitHub](https://github.com/LalithaSreeDamarla)
 
-### 🔍 AWS Kendra Enterprise Search Engine *(Syngenta Internship)*  
-Designed a smart search engine with Kendra, reducing query times by 40%.  
+### 🔍 AWS Kendra Enterprise Search *(Work @ Syngenta)*  
+Designed a smart search engine using Kendra to handle 1000+ daily queries.  
 🛠️ AWS Kendra, Lambda, Python, Node.js
 
-### 🤖 GenAI Automation with AWS Bedrock  
-Built LLM-powered automation to improve workflow speed and decision-making.  
+### 🤖 GenAI Workflow Automation *(Work @ Syngenta)*  
+Integrated LLMs using AWS Bedrock to automate business logic and reduce latency by 50%.  
 🛠️ AWS Bedrock, Lambda, Python
 
 ### 📩 Multilingual Email Automation  
-Automated email alerts with real-time translation using AWS services.  
+Built email alerts with AWS Translate and SES to support global teams.  
 🛠️ AWS Lambda, SES, SNS, Translate, Python
 
 ---
 
-## 💻 Software Development Experience
+## 💻 Software Development Highlights
 
-- ✅ Built enterprise-grade apps in **C# .NET** and **Java**  
-- ✅ Created robust **REST APIs**, **backend logic**, and **frontend UIs**  
-- ✅ Integrated secure cloud services and automated full-stack pipelines  
-- ✅ Maintained CI/CD workflows and optimized performance
+- Built enterprise-level apps with **Java**, **C#**, and **.NET**
+- Developed scalable APIs, cloud functions, and frontend experiences  
+- Created end-to-end automation using AWS and DevOps practices  
+- Enhanced performance, reduced latency, and ensured secure cloud deployments
 
 ---
 
 ## 🤖 Ask SreeBot (Coming Soon!)  
-Want to know what I’ve worked on? Curious about my AI or software projects?  
-💬 SreeBot — your personal AI guide to my portfolio — is on its way.
+Soon you’ll be able to chat with **SreeBot**, your personal AI assistant trained on my resume, projects, and skills. It’ll help you explore what I’ve built, learned, and delivered. 💬
+
+---
+
+## 📊 GitHub Stats
+
+![Lalitha's GitHub stats](https://github-readme-stats.vercel.app/api?username=LalithaSreeDamarla&show_icons=true&theme=radical&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LalithaSreeDamarla&layout=compact&theme=radical)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=LalithaSreeDamarla&theme=radical)](https://git.io/streak-stats)
 
 ---
 
@@ -89,9 +108,9 @@ Want to know what I’ve worked on? Curious about my AI or software projects?
 
 ## ✨ Fun Facts About Me
 
-- 👩‍💻 I'm passionate about crafting meaningful software that blends AI and cloud  
-- 🚀 I enjoy solving complex problems and making smart systems from scratch  
-- 🌱 Always exploring — currently diving deeper into **LLMs + Prompt Engineering**
+- 🚀 I'm passionate about turning real-world problems into software that matters  
+- 🌱 I love exploring new AI/ML concepts, especially **LLMs + GenAI**  
+- 🧠 My favorite thing is building things that make others say “whoa, that’s smart!”
 
 ---
 
