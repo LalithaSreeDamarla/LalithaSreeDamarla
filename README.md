@@ -67,9 +67,14 @@ Designed a smart search engine using Kendra to handle 1000+ daily queries.
 Integrated LLMs using AWS Bedrock to automate business logic and reduce latency by 50%.  
 🛠️ AWS Bedrock, Lambda, Python
 
-### 📩 Multilingual Email Automation  
-Built email alerts with AWS Translate and SES to support global teams.  
-🛠️ AWS Lambda, SES, SNS, Translate, Python
+### 📩 Intelligent Email Notification System  
+Built a robust serverless email system that sends real-time notifications when issues or exceptions are detected in production pipelines, improving team responsiveness.  
+🛠️ AWS Lambda, SES, SNS, Python, Monitoring Tools
+
+### 🌍 Multilingual Translation Engine for SynGPT (ChatGPT for Syngenta)  
+Integrated AWS Translate into SynGPT (Syngenta’s internal ChatGPT-like system) to enable document translation between multiple languages, enhancing global collaboration and knowledge sharing.  
+🛠️ AWS Translate, Lambda, Bedrock, Python, REST APIs
+
 
 ---
 
