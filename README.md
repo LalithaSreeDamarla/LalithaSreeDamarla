@@ -57,7 +57,7 @@ Led a 4-member team to identify student patterns with ensemble clustering and ML
 ### ⏱️ Time-Series Affinity Clustering  
 Developed a real-time time-series pipeline for anomaly detection.  
 🛠️ Python, NumPy, Matplotlib  
-🔗 [GitHub](https://github.com/LalithaSreeDamarla)
+🔗 [GitHub](https://github.com/LalithaSreeDamarla/clustering-pyqt-app)
 
 ### 🔍 AWS Kendra Enterprise Search *(Work @ Syngenta)*  
 Designed a smart search engine using Kendra to handle 1000+ daily queries.  
