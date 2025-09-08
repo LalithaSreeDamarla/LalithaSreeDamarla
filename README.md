@@ -52,7 +52,7 @@ I thrive on building systems that are smart, scalable, and impactful — combini
 ### 📊 Student Behavioral Pattern Clustering  
 Led a 4-member team to identify student patterns with ensemble clustering and ML.  
 🛠️ Python, Pandas, Scikit-learn  
-🔗 [GitHub](https://github.com/LalithaSreeDamarla)
+🔗 [GitHub](https://github.com/LalithaSreeDamarla/student-behavior-ensemble-clustering)
 
 ### ⏱️ Time-Series Affinity Clustering  
 Developed a real-time time-series pipeline for anomaly detection.  
@@ -67,7 +67,7 @@ Designed a smart search engine using Kendra to handle 1000+ daily queries.
 Integrated LLMs using AWS Bedrock to automate business logic and reduce latency by 50%.  
 🛠️ AWS Bedrock, Lambda, Python
 
-### 📩 Intelligent Email Notification System  
+### 📩 Intelligent Email Notification System *(Work @ Syngenta)* 
 Built a robust serverless email system that sends real-time notifications when issues or exceptions are detected in production pipelines, improving team responsiveness.  
 🛠️ AWS Lambda, SES, SNS, Python, Monitoring Tools
 
