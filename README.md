@@ -106,7 +106,6 @@ Soon you’ll be able to chat with **SreeBot**, your personal AI assistant train
 
 📧 Email: [lalithasreedamarla9@gmail.com](mailto:lalithasreedamarla9@gmail.com)   
 💻 GitHub: [github.com/LalithaSreeDamarla](https://github.com/LalithaSreeDamarla)  
-🌐 Portfolio: [https://ai-portfolio-amber-phi.vercel.app/]
 
 ---
 
