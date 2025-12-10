@@ -104,8 +104,7 @@ Soon you’ll be able to chat with **SreeBot**, your personal AI assistant train
 
 ## 📬 Let's Connect
 
-📧 Email: [lalithasreedamarla30@gmail.com](mailto:lalithasreedamarla30@gmail.com)  
-💼 LinkedIn: [linkedin.com/in/lalithasree-damarla-b995b9188](https://www.linkedin.com/in/lalithasree-damarla-b995b9188)  
+📧 Email: [lalithasreedamarla9@gmail.com](mailto:lalithasreedamarla9@gmail.com)   
 💻 GitHub: [github.com/LalithaSreeDamarla](https://github.com/LalithaSreeDamarla)  
 🌐 Portfolio: [https://ai-portfolio-amber-phi.vercel.app/]
 
