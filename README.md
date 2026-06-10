@@ -7,7 +7,7 @@
 🎓 Master's in Computer Science (AI) @ DePaul University  
 💻 Software Developer | Cloud & Intelligent Automation Engineer | AI Enthusiast  
 💡 Passionate about learning, solving real-world problems, and building smart systems with AI  
-📍 Based in Chicago | Open to global opportunities
+📍 Based in Dallas | Open to global opportunities
 
 ---
 
@@ -15,7 +15,7 @@
 
 ### 💡 Core Interests  
 - 🧠 **AI + Problem Solving**  
-- 💻 **Software Development (Java, C#, .NET)**  
+- 💻 **Software Development (Java, Python, C#, .NET)**  
 - 🔄 **Automation & Cloud Pipelines**  
 - 📩 **Multilingual Email Automation (AWS SES + Translate)**  
 - 🌐 **Full-Stack & API Development (Node.js + React)**
@@ -87,11 +87,6 @@ Integrated AWS Translate into SynGPT (Syngenta’s internal ChatGPT-like system)
 
 ---
 
-## 🤖 Ask SreeBot (Coming Soon!)  
-Soon you’ll be able to chat with **SreeBot**, your personal AI assistant trained on my resume, projects, and skills. It’ll help you explore what I’ve built, learned, and delivered. 💬
-
----
-
 ## 📊 GitHub Stats
 
 ![Lalitha's GitHub stats](https://github-readme-stats.vercel.app/api?username=LalithaSreeDamarla&show_icons=true&theme=radical&count_private=true)
@@ -104,7 +99,7 @@ Soon you’ll be able to chat with **SreeBot**, your personal AI assistant train
 
 ## 📬 Let's Connect
 
-📧 Email: [lalithasreedamarla9@gmail.com](mailto:lalithasreedamarla9@gmail.com)   
+📧 Email: [lalithasreedamarla30@gmail.com](mailto:lalithasreedamarla30@gmail.com)   
 💻 GitHub: [github.com/LalithaSreeDamarla](https://github.com/LalithaSreeDamarla)  
 
 ---
